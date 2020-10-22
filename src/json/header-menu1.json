@@ -1,0 +1,27 @@
+[
+    {
+        "img": "../images/item-children-1.webp",
+        "title": "小米10至尊纪念版",
+        "price": "5299元起"
+    },
+    {
+        "img": "../images/item-children-2.png",
+        "title": "小米10Pro",
+        "price": "4999元起"
+    },
+    {
+        "img": "../images/item-children-3.png",
+        "title": "小米10",
+        "price": "3799元起"
+    },
+    {
+        "img": "../images/item-children-4.webp",
+        "title": "小米10 青春版 5G",
+        "price": "1899元起"
+    },
+    {
+        "img": "../images/item-children-5.png",
+        "title": "小米MIX Alpha",
+        "price": "19999元起"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "img": "../images/Home-appliance-1.webp",
+        "title": "米家互联网空调C1 (一级能效)",
+        "price": "2099元起"
+    },
+    {
+        "img": "../images/Home-appliance-2.png",
+        "title": "米家互联网空调(- -级能效)",
+        "price": "2099元起"
+    },
+    {
+        "img": "../images/Home-appliance-3.jpg",
+        "title": "Redmi全自动波轮洗衣机1A",
+        "price": "849元起"
+    },
+    {
+        "img": "../images/Home-appliance-4.png",
+        "title": "米家互联网洗烘一体机L10kg",
+        "price": "1999元起"
+    },
+    {
+        "img": "../images/Home-appliance-5.webp",
+        "title": "米家风冷对开门冰箱483L",
+        "price": "2299元起"
+    },
+    {
+        "img": "../images/Home-appliance-6.webp",
+        "title": "米家风冷对开门冰箱160L",
+        "price": "899元起"
+    }
+]

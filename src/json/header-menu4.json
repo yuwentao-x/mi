@@ -1,0 +1,32 @@
+[
+    {
+        "img": "../images/computer-1.webp",
+        "title": "Redmi G游戏本",
+        "price": ""
+    },
+    {
+        "img": "../images/computer-2.webp",
+        "title": "RedmiBook 16",
+        "price": "4499元起"
+    },
+    {
+        "img": "../images/computer-3.webp",
+        "title": "RedmiBook 14 I",
+        "price": "3999元起"
+    },
+    {
+        "img": "../images/computer-4.png",
+        "title": "Pro 15.6\" 2020款",
+        "price": "5799元起"
+    },
+    {
+        "img": "../images/computer-5.webp",
+        "title": "RedmiBook Air 13",
+        "price": "4699元起"
+    },
+    {
+        "img": "../images/computer-6.webp",
+        "title": "显示器",
+        "price": "2199元起"
+    }
+]

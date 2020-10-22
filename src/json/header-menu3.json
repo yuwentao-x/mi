@@ -1,0 +1,32 @@
+[
+    {
+        "img": "../images/tv-1.webp",
+        "title": "小米电视大师 82英寸至尊纪念版",
+        "price": "49999元起"
+    },
+    {
+        "img": "../images/tv-2.webp",
+        "title": "小米电视大师 82英寸",
+        "price": "9999元起"
+    },
+    {
+        "img": "../images/tv-3.webp",
+        "title": "小米透明电视",
+        "price": "49999元起"
+    },
+    {
+        "img": "../images/tv-4.webp",
+        "title": "小米电视大师 65英寸 OLED",
+        "price": "12999元起"
+    },
+    {
+        "img": "../images/tv-5.webp",
+        "title": "Redmi 智能电视 MAX98",
+        "price": "19999元起"
+    },
+    {
+        "img": "../images/tv-6.webp",
+        "title": "小米电视4A 60英寸",
+        "price": "2399元起"
+    }
+]

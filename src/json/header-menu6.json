@@ -1,0 +1,32 @@
+[
+    {
+        "img": "../images/router-1.webp",
+        "title": "Redmi路由器AX6",
+        "price": "399元"
+    },
+    {
+        "img": "../images/router-2.webp",
+        "title": "Redmi路由器AX5",
+        "price": "249元"
+    },
+    {
+        "img": "../images/router-3.webp",
+        "title": "小米路由器AX1800",
+        "price": "329元"
+    },
+    {
+        "img": "../images/router-4.webp",
+        "title": "小米AIoT路由器AX3600",
+        "price": "599元"
+    },
+    {
+        "img": "../images/router-5.webp",
+        "title": "Redmi路由器AC2100",
+        "price": "169元"
+    },
+    {
+        "img": "../images/router-6.webp",
+        "title": "小米路由器AC2100",
+        "price": "229元"
+    }
+]
